@@ -3,7 +3,6 @@
 ## Project Overview
 This portfolio project uses Microsoft's sample financial workbook to explore sales, profitability, costs, discounts, and performance across products, countries, segments, and time. The report was built in Power BI with Power Query preparation, DAX measures, KPI cards, charts, and slicers for Year, Country, and Segment.
 
-> **Dataset note:** This is a Microsoft sample dataset for demonstration. It is not a company's audited financial statements and should not be presented as verified real-business performance.
 
 ## Tools
 - **Microsoft Excel:** inspected the workbook and structured the `FinancialData` table.
