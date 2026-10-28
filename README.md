@@ -23,7 +23,8 @@ Export screenshots from Power BI and save them using these filenames in a `scree
 
 
 ### Profitability and Segment Analysis
-<img width="1427" height="807" alt="profitability-segment-analysis" src="https://github.com/user-attachments/assets/58b03393-dc2e-4b7d-91c1-19aa225bfe6a" />
+<img width="1426" height="802" alt="profitability-segment-analysis" src="https://github.com/user-attachments/assets/2bff2387-77e7-4c9e-b8e0-1b2f8ff051f8" />
+
 
 
 
